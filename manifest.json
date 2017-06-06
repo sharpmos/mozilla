@@ -1,7 +1,7 @@
 {
 
   "manifest_version": 2,
-  "name": "earnesty",
+  "name": "earnest",
   "version": "1.0",
 
   "description": "Adds a blue border to all webpages matching mozilla.org.",
