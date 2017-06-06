@@ -6,10 +6,6 @@
 
   "description": "Adds a blue border to all webpages matching mozilla.org.",
 
-  "icons": {
-    "48": "icon.png"
-  },
-
   "content_scripts": [
     {
       "matches": ["*://*.mozilla.org/*"],
